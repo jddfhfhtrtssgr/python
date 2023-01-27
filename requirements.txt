@@ -1,2 +1,2 @@
-SQLAlchemy==2.0.0
+SQLAlchemy==1.4.31
 youtube_search_python==1.4.9
