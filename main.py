@@ -10,5 +10,5 @@ r = requests.get('https://api.github.com/users/naveenkrnl')
 # success code - 200
 print(r)
   
-# print content of request
+#@of request
 print(r.content)
