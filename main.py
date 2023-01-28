@@ -1,6 +1,5 @@
 import requests
-   
-# Making a post request
-r = requests.get('https://api.github.com/users/github')
+
+r = requests.get('https://api.github.com/')
 
 print(r.content)
